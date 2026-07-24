@@ -41,8 +41,6 @@ El proyecto hace que el visitante con sus manos **modifique el campo de probabil
 
 ## 5. Tabla de Autoevaluación
 
-| Criterio | ¿Cumple? | Evidencia |
-| :--- | :---: | :--- |
 | **1. Coherencia de la Pieza** | **CUMPLE** | Experiencia única e ininterrumpida en formato 9:16. |
 | **2. Conceptos Estocásticos** | **CUMPLE** | Usa Perlin, Gaussiana, Lévy y Distribución Uniforme. |
 | **3. Interacción en Probabilidades** | **CUMPLE** | La webcam altera las reglas y vectores de atracción, no dibuja directamente. |
@@ -50,3 +48,5 @@ El proyecto hace que el visitante con sus manos **modifique el campo de probabil
 | **5. Identidad Visual con Variaciones** | **CUMPLE** | Es siempre una red neuronal, pero ninguna ejecución es igual a otra. |
 | **6. Formato y Ejecución** | **CUMPLE** | Canvas vertical 9:16 responsivo corriendo a 60 FPS. |
 | **7. Documentación y Commits** | **CUMPLE** | Proceso registrado en el repositorio de GitHub. |
+
+Autoevaluacion: 4.5
