@@ -1,1 +1,52 @@
+# Bitácora - Unidad 1
 
+**Reto:** Navegar la Incertidumbre  
+**Formato:** 9:16 Full Screen  
+**Tecnologías:** p5.js + ml5.js (HandPose)  
+
+---
+
+## 1. Pregunta Orientadora y Concepto
+
+**¿Cómo convertir diferentes formas de aleatoriedad en diferentes significados?**
+
+El proyecto hace que el visitante con sus manos **modifique el campo de probabilidades**.
+
+---
+
+## 2. Implementación Visual de los 5 Momentos Conceptuales
+
+1. **Posibilidad:** Vectors aleatorios uniformes (`p5.Vector.random2D()`). Las neuronas derivan sutilmente en todas las direcciones sin un rumbo fijo.
+2. **Tendencia:** Campo de flujo con Ruido Perlin (`noise()`). Se generan corrientes orgánicas e invisibles de fondo que arrastran suavemente a grupos de neuronas.
+3. **Normalidad:** Distribución Gaussiana (`randomGaussian()`). Micro-vibraciones sutiles donde la mayoría de las partículas permanece cerca de su trayectoria habitual.
+4. **Excepción (Momento Eureka):** Vuelos de Lévy (`levyStep`). Con una probabilidad muy baja (~0.8%), una neurona realiza un salto drástico hacia un punto lejano, rompiendo el patrón.
+5. **Influencia:** Rastreo por IA con `ml5.handPose`. Al juntar las manos, las neuronas se condensan en el centro, **creciendo hasta 8 veces su tamaño** en un **Mega Orbe incandescente dorado**.
+
+---
+
+## 3. Aspectos Técnicos y Optimización
+
+* **Tecnologías:** `p5.js` para renderizado gráfico y `ml5.js (v1.2.0)` con backend WebGL para visión por computadora.
+* **Optimización a 60 FPS:** Red de **28 neuronas** para mantener los cálculos sinápticos $O(N^2)$ fluidos y migración a modo RGB nativo para liberar carga en CPU.
+* **Interacción Suavizada:** Implementación de interpolación lineal (`lerp`) en el rastreo de los puntos clave de los dedos para eliminar el salto del modelo de IA.
+
+---
+
+## 4. Uso de IA Generativa
+
+* **Aportes de IA:** Refactorización de bucles para evitar bloqueos de p5.js, sintaxis de `ml5.js` v1.0+ e interpolación `lerp` para suavizar el rastreo de dedos.
+* **Criterio Humano:** Dirección de arte (estética cósmica/dorada), calibración del factor de fuerza magnética y el diseño del concepto de condensación del pensamiento.
+
+---
+
+## 5. Tabla de Autoevaluación
+
+| Criterio | ¿Cumple? | Evidencia |
+| :--- | :---: | :--- |
+| **1. Coherencia de la Pieza** | **CUMPLE** | Experiencia única e ininterrumpida en formato 9:16. |
+| **2. Conceptos Estocásticos** | **CUMPLE** | Usa Perlin, Gaussiana, Lévy y Distribución Uniforme. |
+| **3. Interacción en Probabilidades** | **CUMPLE** | La webcam altera las reglas y vectores de atracción, no dibuja directamente. |
+| **4. Funcionamiento Autónomo** | **CUMPLE** | Sin usuario, la red flota orgánicamente movida por ruido Perlin. |
+| **5. Identidad Visual con Variaciones** | **CUMPLE** | Es siempre una red neuronal, pero ninguna ejecución es igual a otra. |
+| **6. Formato y Ejecución** | **CUMPLE** | Canvas vertical 9:16 responsivo corriendo a 60 FPS. |
+| **7. Documentación y Commits** | **CUMPLE** | Proceso registrado en el repositorio de GitHub. |
