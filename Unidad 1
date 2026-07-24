@@ -3,14 +3,14 @@
 **Reto:** Navegar la Incertidumbre  
 **Formato:** 9:16 Full Screen  
 **Tecnologías:** p5.js + ml5.js (HandPose)  
-
+**Festival escogido:** MUTEK - Festival internacional de creatividad digital
 ---
 
 ## 1. Pregunta Orientadora y Concepto
 
 **¿Cómo convertir diferentes formas de aleatoriedad en diferentes significados?**
 
-El proyecto hace que el visitante con sus manos **modifique el campo de probabilidades**.
+El proyecto hace que el visitante con sus manos **modifique el campo de probabilidades**. que representa la mente humana y la formación de ideas a través de una red neuronal que reacciona a tus manos en tiempo real.
 
 ---
 
