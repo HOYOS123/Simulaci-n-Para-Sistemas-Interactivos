@@ -1,1 +1,139 @@
 # Unidad 2
+
+
+# Actividad 04: Diseño Generativo
+
+## **¿Qué es el diseño generativo?**
+
+El diseño generativo consiste en diseñar un **sistema capaz de producir múltiples resultados**, en lugar de diseñar una única imagen o animación final.
+
+Para esto, el diseñador no controla directamente cada elemento visual. En cambio, define una intención, un conjunto de entidades, las relaciones entre ellas y las reglas que determinan cómo evolucionará el sistema. 
+De esta forma, cada ejecución puede producir un resultado diferente, pero todos conservan la misma identidad conceptual.
+
+Como plantea Patrick Hübner, la unidad de diseño deja de ser la imagen y pasa a ser el **conjunto de relaciones** que generan esa imagen.
+
+---
+
+## **¿Qué es Particle Life desde el diseño generativo?**
+
+Particle Life es un ejemplo claro de diseño generativo, donde en lugar de decidir manualmente la posición de cada partícula, el diseñador define:
+
+- Las especies de partículas.
+- Qué especies se atraen.
+- Qué especies se repelen.
+- La intensidad de esas fuerzas.
+- La cantidad de partículas.
+
+A partir de estas reglas, el sistema genera comportamientos emergentes de manera autónoma.
+
+---
+
+# Las ocho operaciones de la mentalidad generativa aplicadas a Particle Life
+
+## 1. Intención
+
+**¿Qué quiero comunicar?**
+
+La intención es la idea, emoción o transformación que debe experimentar quien observa el sistema.
+
+Ejemplos:
+
+- Calma.
+- Ansiedad.
+- Cooperación.
+- Conflicto.
+- Evolución.
+- Caos.
+- Equilibrio.
+
+---
+
+## 2. Entidades
+
+Las entidades son los elementos que existen dentro del sistema.
+
+En Particle Life normalmente son diferentes especies de partículas.
+
+Ejemplo:
+
+- Roja (Personas) y Azul (Problemas): Los problemas atraen a las personas (las absorben), y las personas intentan repeler o huir de los problemas a cierta distancia.
+- Roja (Personas) y Verde (Oportunidades): Las personas se sienten fuertemente atraídas por las oportunidades. Las oportunidades pueden ser estáticas o moverse hacia las personas.
+- Amarilla (Esperanza): Podría actuar como un elemento neutralizador. Por ejemplo, la esperanza atrae a las personas y repele a los problemas, alejándolos de ellas.
+
+Aunque es muy metafórico se podría ver de esta forma.
+
+---
+
+## 3. Relaciones
+
+Las relaciones describen cómo interactúan las entidades.
+
+Ejemplos:
+
+- Las partículas rojas atraen a las verdes.
+- Las rojas repelen a las azules.
+- Las azules se atraen entre sí.
+- Las verdes estabilizan el sistema.
+
+Las relaciones son el corazón del diseño generativo.
+
+---
+
+## 4. Entradas
+
+Son los elementos que modifican el comportamiento del sistema. Estos pueden ser:
+
+- Tiempo.
+- Mouse.
+- Teclado.
+- Audio.
+- Datos.
+- Aleatoriedad.
+
+---
+
+## 5. Reglas
+
+Las reglas determinan cómo cambia el sistema en cada instante. Por ejemplo:
+
+- Rojo → Verde = Atracción fuerte.
+- Rojo → Azul = Repulsión.
+- Azul → Azul = Atracción moderada.
+- Verde → Todas = Estabilización.
+
+---
+
+## 6. Invariantes
+
+Son las características que nunca cambian y conservan la identidad del sistema. Ejemplos:
+
+- Siempre existen cuatro especies.
+- Siempre hay fuerzas de atracción y repulsión.
+- El sistema siempre produce agrupaciones.
+
+---
+
+## 7. Variabilidad
+
+Son los aspectos que cambian en cada ejecución. Ejemplos:
+
+- Posición inicial de las partículas.
+- Cantidad de partículas.
+- Semilla aleatoria.
+- Velocidad inicial.
+
+Gracias a esta variabilidad, cada simulación es diferente.
+
+---
+
+## 8. Curaduría y reflexión
+
+Después de ejecutar el sistema, el diseñador analiza el resultado. Se pregunta:
+
+- ¿El comportamiento comunica la intención?
+- ¿El resultado es significativo?
+- ¿Qué reglas deben modificarse?
+
+El objetivo no es aceptar cualquier resultado, sino ajustar el sistema hasta lograr el comportamiento deseado.
+
+---
