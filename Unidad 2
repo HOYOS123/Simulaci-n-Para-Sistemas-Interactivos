@@ -1,9 +1,20 @@
 # Unidad 2
 
+## Actividad 01:
 
-# Actividad 04: Diseño Generativo
+---
 
-## **¿Qué es el diseño generativo?**
+## Actividad 02:
+
+---
+
+## Actividad 03:
+
+---
+
+## Actividad 04: Diseño Generativo
+
+### **¿Qué es el diseño generativo?**
 
 El diseño generativo consiste en diseñar un **sistema capaz de producir múltiples resultados**, en lugar de diseñar una única imagen o animación final.
 
@@ -14,7 +25,7 @@ Como plantea Patrick Hübner, la unidad de diseño deja de ser la imagen y pasa 
 
 ---
 
-## **¿Qué es Particle Life desde el diseño generativo?**
+### **¿Qué es Particle Life desde el diseño generativo?**
 
 Particle Life es un ejemplo claro de diseño generativo, donde en lugar de decidir manualmente la posición de cada partícula, el diseñador define:
 
@@ -28,9 +39,9 @@ A partir de estas reglas, el sistema genera comportamientos emergentes de manera
 
 ---
 
-# Las ocho operaciones de la mentalidad generativa aplicadas a Particle Life
+## Las ocho operaciones de la mentalidad generativa aplicadas a Particle Life
 
-## 1. Intención
+### 1. Intención
 
 **¿Qué quiero comunicar?**
 
@@ -48,7 +59,7 @@ Ejemplos:
 
 ---
 
-## 2. Entidades
+### 2. Entidades
 
 Las entidades son los elementos que existen dentro del sistema.
 
@@ -64,7 +75,7 @@ Aunque es muy metafórico se podría ver de esta forma.
 
 ---
 
-## 3. Relaciones
+### 3. Relaciones
 
 Las relaciones describen cómo interactúan las entidades.
 
@@ -79,7 +90,7 @@ Las relaciones son el corazón del diseño generativo.
 
 ---
 
-## 4. Entradas
+### 4. Entradas
 
 Son los elementos que modifican el comportamiento del sistema. Estos pueden ser:
 
@@ -92,7 +103,7 @@ Son los elementos que modifican el comportamiento del sistema. Estos pueden ser:
 
 ---
 
-## 5. Reglas
+### 5. Reglas
 
 Las reglas determinan cómo cambia el sistema en cada instante. Por ejemplo:
 
@@ -103,7 +114,7 @@ Las reglas determinan cómo cambia el sistema en cada instante. Por ejemplo:
 
 ---
 
-## 6. Invariantes
+### 6. Invariantes
 
 Son las características que nunca cambian y conservan la identidad del sistema. Ejemplos:
 
@@ -113,7 +124,7 @@ Son las características que nunca cambian y conservan la identidad del sistema.
 
 ---
 
-## 7. Variabilidad
+### 7. Variabilidad
 
 Son los aspectos que cambian en cada ejecución. Ejemplos:
 
@@ -126,7 +137,7 @@ Gracias a esta variabilidad, cada simulación es diferente.
 
 ---
 
-## 8. Curaduría y reflexión
+### 8. Curaduría y reflexión
 
 Después de ejecutar el sistema, el diseñador analiza el resultado. Se pregunta:
 
