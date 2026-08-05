@@ -1,15 +1,5 @@
 # Unidad 2
 
-## Actividad 01:
-
----
-
-## Actividad 02:
-
----
-
-## Actividad 03:
-
 ---
 
 ## Actividad 04: Diseño Generativo
@@ -149,7 +139,7 @@ El objetivo no es aceptar cualquier resultado, sino ajustar el sistema hasta log
 
 ---
 
-## Actividad 05: Reto de diseño
+# Actividad 05: Reto de diseño
 
 ## Intención - ¿Qué quería explorar?
 
@@ -163,7 +153,7 @@ La intención no depende de los colores, sino de cómo se atraen o se rechazan e
 
 ---
 
-# Diseño del sistema
+## Diseño del sistema
 
 Utilicé **tres** tipos de partículas.
 
@@ -179,7 +169,7 @@ Seleccioné tres tipos porque quería que hubiera diferentes "roles" dentro del 
 
 ---
 
-## Cantidad de partículas
+### Cantidad de partículas
 
 Trabajé con aproximadamente **120 partículas**.
 
@@ -189,7 +179,7 @@ Al principio tenía más, pero era difícil entender qué estaba pasando. Con 12
 
 ---
 
-## Matriz de relaciones
+### Matriz de relaciones
 
 La matriz fue la parte más importante del ejercicio.
 
@@ -207,7 +197,7 @@ Quería que el comportamiento dependiera de las reglas y no de los colores.
 
 ---
 
-## Intensidad de las relaciones
+### Intensidad de las relaciones
 
 Fui probando diferentes intensidades.
 
@@ -221,7 +211,7 @@ Porque quería que hubiera movimiento continuo sin que todo terminara completame
 
 ---
 
-## Distancia de interacción
+### Distancia de interacción
 
 También probé cambiando el radio de interacción.
 
@@ -231,7 +221,7 @@ Cuando lo aumenté empezaron a formarse agrupaciones más interesantes.
 
 ---
 
-## Fricción
+### Fricción
 
 La fricción la dejé muy parecida a la original.
 
@@ -239,13 +229,13 @@ Hice algunas pruebas cambiándola, pero vi que afectaba más la velocidad del mo
 
 ---
 
-## Distribución inicial
+### Distribución inicial
 
 Utilicé la distribución centrada. Así todas las partículas comenzaban bajo las mismas condiciones.
 
 ---
 
-## Parámetros constantes
+### Parámetros constantes
 
 Durante la simulación mantuve:
 
@@ -255,7 +245,7 @@ Durante la simulación mantuve:
 
 ---
 
-## Parámetros que fui cambiando
+### Parámetros que fui cambiando
 
 Durante las pruebas cambié principalmente:
 
@@ -268,9 +258,9 @@ Fueron los parámetros que más cambiaban el comportamiento del sistema.
 
 ---
 
-# Registro de pruebas
+## Registro de pruebas
 
-## Prueba 1
+### Prueba 1
 
 Comencé usando la configuración inicial del simulador.
 
@@ -283,7 +273,7 @@ No era el comportamiento que buscaba.
 
 ---
 
-## Prueba 2
+### Prueba 2
 
 Empecé a modificar la matriz.
 
@@ -293,7 +283,7 @@ https://github.com/user-attachments/assets/ecf475ef-2d2c-49ee-b0f4-eb434458172c
 
 ---
 
-## Prueba 3
+### Prueba 3
 
 Probé una relación asimétrica.
 
@@ -303,7 +293,7 @@ Ese cambio hizo que el sistema empezara a reorganizarse constantemente.
 
 ---
 
-## Prueba 4
+### Prueba 4
 
 Bajé demasiado la atracción entre las partículas rojas.
 
@@ -313,7 +303,7 @@ Por eso descarté esa configuración.
 
 ---
 
-## Prueba 5 (resultado final)
+### Prueba 5 (resultado final)
 
 Volví a aumentar un poco la cohesión entre las rojas.
 
@@ -325,7 +315,7 @@ Ese fue el resultado que decidí conservar.
 
 ---
 
-# Lo que aprendí
+### Lo que aprendí
 
 Lo que más me sorprendió fue que cambiar un solo valor de la matriz podía cambiar completamente el comportamiento del sistema.
 
@@ -333,7 +323,7 @@ También entendí que el objetivo no era hacer una animación bonita, sino dise�
 
 ---
 
-# Autoevaluación
+### Autoevaluación
 
 Creo que logré representar la idea que tenía al comienzo.
 
