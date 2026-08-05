@@ -278,6 +278,8 @@ Las partículas terminaban formando un grupo muy grande y después casi no cambi
 
 No era el comportamiento que buscaba.
 
+<img width="1240" height="998" alt="image" src="https://github.com/user-attachments/assets/cafd1206-d6b3-4883-9d15-c199fe4c5f5a" />
+
 
 ---
 
@@ -286,6 +288,8 @@ No era el comportamiento que buscaba.
 Empecé a modificar la matriz.
 
 Noté que pequeños cambios hacían una diferencia muy grande en el movimiento.
+
+https://github.com/user-attachments/assets/ecf475ef-2d2c-49ee-b0f4-eb434458172c
 
 ---
 
