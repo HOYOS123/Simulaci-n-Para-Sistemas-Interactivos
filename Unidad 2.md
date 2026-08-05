@@ -321,6 +321,8 @@ Con ese cambio aparecieron grupos que duraban algunos segundos, luego se rompía
 
 Ese fue el resultado que decidí conservar.
 
+[Video en Youtube](https://youtu.be/QXYXtTWGfmA)
+
 ---
 
 # Lo que aprendí
