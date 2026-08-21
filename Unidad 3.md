@@ -1,11 +1,10 @@
-https://hoyos123.github.io/RepositorioSimulacion/
+Enlace al proyecto: https://hoyos123.github.io/RepositorioSimulacion/
 
 
 <img width="1919" height="1031" alt="image" src="https://github.com/user-attachments/assets/cb1ea83f-3d4c-45a9-a07d-56b6732f89c1" />
 
 Enlace al repo del profe: https://github.com/juanferfranco/forces-instrument-u3
 Enlace a mi repo: https://github.com/HOYOS123/RepositorioSimulacion
-Enlace al proyecto: https://hoyos123.github.io/RepositorioSimulacion/
 
 
 # Instrumento de Fuerzas — Primera versión
