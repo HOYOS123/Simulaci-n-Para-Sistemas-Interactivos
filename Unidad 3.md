@@ -6,6 +6,8 @@
 
 **URL pública:** https://hoyos123.github.io/RepositorioSimulacion/
 
+**Video evidencia:** https://youtu.be/qRkelu5aOag
+
 El instrumento fue desarrollado con **Three.js, WebGPU, TSL, GPU Compute y Vite**, tomando como punto de partida el proyecto `forces-instrument-u3`.
 
 El sistema funciona en tiempo real y permite conducir las partículas mediante diferentes controles:
