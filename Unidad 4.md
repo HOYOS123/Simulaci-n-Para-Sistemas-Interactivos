@@ -35,4 +35,4 @@ El sistema consta de **8 agentes** distribuidos en **4 personalidades audiovisua
 - **Demostración de los objetivos pedagógicos (25 / 25 puntos):** El proyecto comprueba con éxito que Kuramoto no es reemplazable por un temporizador estático, ya que la cohesión musical y visual es un fenómeno genuinamente emergente de la red interactiva.
 
 # Video Evidencia: 
-https://youtu.be/yAazCIvtvtU
+[Video en Youtube](https://youtu.be/yAazCIvtvtU)
