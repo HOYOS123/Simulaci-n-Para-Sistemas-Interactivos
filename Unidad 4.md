@@ -16,6 +16,7 @@
 
 - Index.html:
 
+´´´
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -51,13 +52,14 @@
 
 </body>
 </html>
-
+´´´
 
 ---
 
 
 - sketch.js:
 
+´´´
 // ==========================================
 // K-CLUSTER: SISTEMA AUDIOVISUAL DE KURAMOTO
 // ==========================================
@@ -401,7 +403,7 @@ class Agente {
     pop();
   }
 }
-
+´´´
 
 ## Arquitectura de Agentes y Personalidades
 El sistema consta de **8 agentes** distribuidos en **4 personalidades audiovisuales** distintas:
