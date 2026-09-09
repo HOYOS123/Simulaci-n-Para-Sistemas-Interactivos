@@ -33,3 +33,6 @@ El sistema consta de **8 agentes** distribuidos en **4 personalidades audiovisua
 - **Claridad en las variables del modelo (25 / 25 puntos):** Se define y comprende con precisión qué representa la fase ($\theta$) como el ciclo interno de actividad, la frecuencia natural ($\omega$) como el tempo intrínseco y la fuerza de acoplamiento ($K$) como la permeabilidad a la influencia de los vecinos.
 - **Explicación del comportamiento observado (25 / 25 puntos):** Se justifica formalmente cómo el incremento de $K$ activa la sumatoria de senos de diferencia de fase, forzando matemáticamente la transición orgánica desde el caos entrópico hasta la sincronía armónica unificada.
 - **Demostración de los objetivos pedagógicos (25 / 25 puntos):** El proyecto comprueba con éxito que Kuramoto no es reemplazable por un temporizador estático, ya que la cohesión musical y visual es un fenómeno genuinamente emergente de la red interactiva.
+
+# Video Evidencia: 
+https://youtu.be/yAazCIvtvtU
